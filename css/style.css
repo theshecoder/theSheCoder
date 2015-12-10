@@ -833,7 +833,7 @@ border: none;
 	text-transform:uppercase;
 
 	background: transparent !imporatant;
-	font-family: Lato, sans-serif;
+/*	font-family: Lato, sans-serif;*/
 	font-weight: lighter;
 	font-size: 18px;
 	color:#380016;
@@ -1968,7 +1968,7 @@ margin-bottom: 35px !important;
 #filter li a.selected {
 	cursor:pointer;
 	background: transparent;
-	font-family: Lato, sans-serif;
+	/*font-family: Lato, sans-serif;*/
 	font-weight: lighter;
 	font-size: 24px;
 	color:#380016;
